@@ -1,1 +1,8 @@
-
+{"bot_requirements":
+  {
+    "required_skills": ["git", "node"]
+  }
+},
+{
+    "test_command": "echo 'manifest loaded'"
+}
